@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>GooglePixel4</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Google Pixel 4'</initValue>
+      <name>deviceName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
